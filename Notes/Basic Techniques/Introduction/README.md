@@ -131,3 +131,35 @@ by A ⊂ S. A set S always has 2|S|
 subsets, including the empty set. For example,
 the subsets of the set {2,4,7} are
 {} , {2}, {4}, {7}, {2,4}, {2,7}, {4,7} and {2,4,7}.
+
+
+### Logic
+
+Implication - The expression A ⇒ B is true if whenever A is true, also B is true.
+
+Equivalence - The expression A ⇔ B is true if A and B are both true or both false.
+
+A predicate is an expression that is true or false depending on its parameters.
+
+A quantifier connects a logical expression to the elements of a set. The most
+important quantifiers are ∀ (for all) and ∃ (there is).
+
+
+### Logarithms
+
+logk(x) = a
+
+A useful property of logarithms is that logk(x) equals the number of times we
+have to divide x by k before we reach the number 1. For example, log2
+(32) = 5
+because 5 divisions by 2 are needed
+
+
+## Books
+
+• S. S. Skiena and M. A. Revilla: Programming Challenges: The Programming
+Contest Training Manual [59]
+• S. Halim and F. Halim: Competitive Programming 3: The New Lower Bound
+of Programming Contests [33]
+• K. Diks et al.: Looking for a Challenge? The Ultimate Problem Set from the
+University of Warsaw Programming Competitions [15]
